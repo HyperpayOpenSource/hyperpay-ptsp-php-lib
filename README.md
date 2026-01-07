@@ -1,6 +1,6 @@
 # Hyperpay PTSP PHP Client
 
-Lightweight PHP client to create Hyperpay PTSP payment links via the Hyperpay API using Basic Auth and Laravel’s HTTP client.
+Lightweight PHP client to create Hyperpay PTSP payment links via the Hyperpay PTSP API using Basic Auth and Laravel’s HTTP client.
 
 ## Table of Contents
 - Overview
